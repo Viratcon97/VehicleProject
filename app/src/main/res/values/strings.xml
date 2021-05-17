@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VehicleProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_Screen_title">Vehicles</string>
+    <string name="new_vehicle_profile_title">Create New Vehicle Profile</string>
+    <string name="number_format">e.g. MH12AB1234</string>
+    <string name="text_VehicleNumber">Vehicle Number</string>
+    <string name="vehicle_type">Vehicle Type</string>
+    <string name="vehicle_make">Select Make</string>
+</resources>
